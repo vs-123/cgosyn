@@ -33,6 +33,6 @@ To transpile Go-syntaxed C to C (1 to 1 without any abstractions)
 You can find them in `examples/` directory
 
 ## Contribution
-Contributions will be highly appreciated
+Contributions are highly welcomed
 
 Feel free to make pull requests or raise issues related to this project
